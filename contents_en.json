@@ -1,0 +1,340 @@
+[
+  {
+    "name": "1. Background",
+    "anchor": "section1",
+    "children": [
+      {
+        "name": "1.1 Wall Street 1.0: The Rise and Fall of Traditional Banking Systems",
+        "anchor": "section1-1"
+      },
+      {
+        "name": "1.2 Wall Street 2.0: The Rise and Limitations of Fintech",
+        "anchor": "section1-2"
+      },
+      {
+        "name": "1.3 Wall Street 3.0: Decentralized Finance and the Public Chain Revolution",
+        "anchor": "section1-3"
+      },
+      {
+        "name": "1.4 ONECHAIN — Wall Street 3.0",
+        "anchor": "section1-4"
+      }
+    ]
+  },
+  {
+    "name": "2. Core Features and Highlights",
+    "anchor": "section2",
+    "children": [
+      {
+        "name": "2.1 Near Instantaneous Transaction Confirmation",
+        "anchor": "section2-1"
+      },
+      {
+        "name": "2.2 Developer-Centric Ecosystem",
+        "anchor": "section2-2"
+      },
+      {
+        "name": "2.3 Seamless and User-Friendly Blockchain Access",
+        "anchor": "section2-3"
+      },
+      {
+        "name": "2.4 USDO  : Yield-Generating Stablecoin ",
+        "anchor": "section2-4"
+      },
+      {
+        "name": "2.5 Digitization and Tokenization of Real-World Assets",
+        "anchor": "section2-5"
+      },
+      {
+        "name": "2.6 Collaborative Node Ecosystem",
+        "anchor": "section2-6"
+      },
+      {
+        "name": "2.7 Top-Tier Security : MPC + Decentralized Governance",
+        "anchor": "section2-7"
+      },
+      {
+        "name": "2.8 Extensible and Scalable Ecosystem for Real-World Applications",
+        "anchor": "section2-8"
+      },
+      {
+        "name": "2.9 Modular Configurable Privacy Controls",
+        "anchor": "section2-9"
+      }
+    ]
+  },
+  {
+    "name": "3. Technical Architecture",
+    "anchor": "section3",
+    "children": [
+      {
+        "name": "3.1 Blockchain Infrastructure",
+        "anchor": "section3-1",
+        "children": [
+          {
+            "name": "Storage Management",
+            "anchor": "section3-1-1"
+          },
+          {
+            "name": "Cross-Chain",
+            "anchor": "section3-1-2"
+          },
+          {
+            "name": "Cryptography",
+            "anchor": "section3-1-3"
+          }
+        ]
+      },
+      {
+        "name": "3.2 Consensus Layer",
+        "anchor": "section3-2"
+      },
+      {
+        "name": "3.3 Network Layer",
+        "anchor": "section3-3"
+      },
+      {
+        "name": "3.4 Application Layer",
+        "anchor": "section3-4",
+        "children": [
+          {
+            "name": "Smart Contract Module",
+            "anchor": "section3-4-1"
+          },
+          {
+            "name": "ONE SDK (Development Toolkit)",
+            "anchor": "section3-4-2"
+          }
+        ]
+      },
+      {
+        "name": "3.5 RPC Layer",
+        "anchor": "section3-5"
+      },
+      {
+        "name": "3.6 User Interface Layer (DApps)",
+        "anchor": "section3-6"
+      },
+      {
+        "name": "3.7 Consensus Mechanism",
+        "anchor": "section3-7",
+        "children": [
+          {
+            "name": "3.7.1 DPoS (Delegated Proof-of-Stake)",
+            "anchor": "section3-7-1"
+          },
+          {
+            "name": "3.7.2 DAG Consensus Protocol",
+            "anchor": "section3-7-2"
+          }
+        ]
+      },
+      {
+        "name": "3.8 Checkpoint",
+        "anchor": "section3-8",
+        "children": [
+          {
+            "name": "3.8.1 The process by which checkpoints are generated",
+            "anchor": "section3-8-1"
+          },
+          {
+            "name": "3.8.2 Key characteristics of checkpoints",
+            "anchor": "section3-8-2"
+          }
+        ]
+      },
+      {
+        "name": "3.9 DID: Decentralized Identity Proof",
+        "anchor": "section3-9",
+        "children": [
+          {
+            "name": "3.9.1 Core Concept: Multiple Addresses, One Identity",
+            "anchor": "section3-9-1"
+          },
+          {
+            "name": "3.9.2 Technical Implementation: 13-Digit DID Number",
+            "anchor": "section3-9-2"
+          },
+          {
+            "name": "3.9.3 OAUTH Identity Login: Web2.0 Convenience + Web3.0 Privacy",
+            "anchor": "section3-9-3"
+          },
+          {
+            "name": "3.9.4 Design Highlights",
+            "anchor": "section3-9-4"
+          },
+          {
+            "name": "3.9.5 User Value: Universal ID, Convenient and Secure",
+            "anchor": "section3-9-5"
+          },
+          {
+            "name": "3.9.6 Developer Value: Precise Services and Commercialization",
+            "anchor": "section3-9-6"
+          },
+          {
+            "name": "3.9.7 DID Alliance and Win-Win Ecosystem",
+            "anchor": "section3-9-7"
+          },
+          {
+            "name": "3.9.8 Real-World Applications: DID in DeFi and NFTs",
+            "anchor": "section3-9-8"
+          }
+        ]
+      },
+      {
+        "name": "3.10 Zero GAS: Lowers the threshold for users and removes barriers to Web3 use",
+        "anchor": "section3-10",
+        "children": [
+          {
+            "name": "3.10.1 Core Concept",
+            "anchor": "section3-10-1"
+          },
+          {
+            "name": "3.10.2 Design Highlights",
+            "anchor": "section3-10-2"
+          },
+          {
+            "name": "3.10.3 Scenario 1",
+            "anchor": "section3-10-3"
+          },
+          {
+            "name": "3.10.4 Scenario 2",
+            "anchor": "section3-10-4"
+          },
+          {
+            "name": "3.10.5 Value: User-Centric Blockchain is the Future",
+            "anchor": "section3-10-5"
+          }
+        ]
+      },
+      {
+        "name": "3.11 Oracle",
+        "anchor": "section3-11"
+      }
+    ]
+  },
+  {
+    "name": "4. Application and Solutions",
+    "anchor": "section4",
+    "children": [
+      {
+        "name": "4.1 Wallet Services",
+        "anchor": "section4-1"
+      },
+      {
+        "name": "4.2 Stablecoin Services",
+        "anchor": "section4-2"
+      },
+      {
+        "name": "4.3 RWA Structured Asset Services",
+        "anchor": "section4-3",
+        "children": [
+          {
+            "name": "4.3.1 Current Dilemma: Web3.0 Lacks Assets, Web2.0 Lacks Innovation",
+            "anchor": "section4-3-1"
+          },
+          {
+            "name": "4.3.2 OneRWA: A Platform Connecting Real-World Assets to Web3.0",
+            "anchor": "section4-3-2"
+          },
+          {
+            "name": "4.3.3 Core Capabilities",
+            "anchor": "section4-3-3"
+          },
+          {
+            "name": "4.3.4 Real-World Use Cases: Solving Practical Challenges for Enterprises and Users",
+            "anchor": "section4-3-4"
+          },
+          {
+            "name": "4.3.5 RWA Structured Innovation: Enabling On-Chain Asset Composability, Pricing, and Tradability",
+            "anchor": "section4-3-5"
+          }
+        ]
+      },
+      {
+        "name": "4.4 E-commerce consumption rebate",
+        "anchor": "section4-4",
+        "children": [
+          {
+            "name": "4.4.1 How OneChain Transforms E-Commerce Cashback Systems",
+            "anchor": "section4-4-1"
+          },
+          {
+            "name": "4.4.2 Transactions On-Chain, Rewards Verifiable",
+            "anchor": "section4-4-2"
+          },
+          {
+            "name": "4.4.3 Payments Trigger Smart Contract Automation",
+            "anchor": "section4-4-3"
+          },
+          {
+            "name": "4.4.4 Seamless Payment Experience, Zero Entry Barrier",
+            "anchor": "section4-4-4"
+          },
+          {
+            "name": "4.4.5 Smart Contracts Enable Instant Rewards — Fast, Accurate, Effortless",
+            "anchor": "section4-4-5"
+          },
+          {
+            "name": "4.4.6 The true breakthrough",
+            "anchor": "section4-4-6"
+          },
+          {
+            "name": "4.4.7 Three Key Innovations Reshaping E-Commerce Loyalty",
+            "anchor": "section4-4-7"
+          },
+          {
+            "name": "4.4.8 Why This Matters",
+            "anchor": "section4-4-8"
+          },
+          {
+            "name": "4.4.9 Conclusion",
+            "anchor": "section4-4-9"
+          }
+        ]
+      },
+      {
+        "name": "4.5 Decentralized Exchange Services",
+        "anchor": "section4-5"
+      },
+      {
+        "name": "4.6 Cross-Chain Asset Services",
+        "anchor": "section4-6"
+      },
+      {
+        "name": "4.7 User identity management and data exchange services",
+        "anchor": "section4-7"
+      },
+      {
+        "name": "4.8 Staking and Lending Services",
+        "anchor": "section4-8"
+      },
+      {
+        "name": "4.9 Entertainment and Gaming Asset Services",
+        "anchor": "section4-9"
+      },
+      {
+        "name": "4.10 Simplified Gaming Asset Services",
+        "anchor": "section4-10"
+      }
+    ]
+  },
+  {
+    "name": "5. Roadmap",
+    "anchor": "section5",
+    "children": [
+      {
+        "name": "2025 Phase 1: Mainnet launch and ecosystem launch",
+        "anchor": "section5-1"
+      },
+      {
+        "name": "2026 Phase 2: Ecological expansion and cross-chain cooperation",
+        "anchor": "section5-2"
+      },
+      {
+        "name": "2027 Phase 3: Technology optimization and application deepening",
+        "anchor": "section5-3"
+      }
+    ]
+  }
+]
