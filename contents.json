@@ -38,28 +38,24 @@
         "anchor": "section2-3"
       },
       {
-        "name": "2.4 USDT - 有利息的稳定币",
+        "name": "2.4 基于实物资产的代币系统",
         "anchor": "section2-4"
       },
       {
-        "name": "2.5 基于实物资产的代币系统",
+        "name": "2.5 节点机制",
         "anchor": "section2-5"
       },
       {
-        "name": "2.6 节点机制",
+        "name": "2.6 安全与信任机制",
         "anchor": "section2-6"
       },
       {
-        "name": "2.7 安全与信任机制",
+        "name": "2.7 生态应用的可扩展性",
         "anchor": "section2-7"
       },
       {
-        "name": "2.8 生态应用的可扩展性",
+        "name": "2.8 模块化可配置隐私策略",
         "anchor": "section2-8"
-      },
-      {
-        "name": "2.9 模块化可配置隐私策略",
-        "anchor": "section2-9"
       }
     ]
   },
